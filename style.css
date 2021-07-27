@@ -63,9 +63,9 @@ footer h3 {
 }
 
 .container {
-  margin-top: 15%;
   max-width: 940px;
   margin: 0 auto;
+  margin-top: 15%;
   height: 800px;
 }
 

@@ -1,7 +1,7 @@
 body {
   background-color: #242f44;
   color: white;
-    font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 header {
@@ -63,6 +63,7 @@ footer h3 {
 }
 
 .container {
+  margin-top: 15%;
   max-width: 940px;
   margin: 0 auto;
   height: 800px;
